@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://github.com/hrggaming">
         <img
-src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Auto+4dmin+tool+by+47hx1-53r"
+src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Auto+4dmin+tool+by+hrggaming"
             alt="Typing SVG"
         />
     </a>
