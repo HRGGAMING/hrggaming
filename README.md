@@ -14,7 +14,7 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Auto+4dmin
 > Auto Admin tool used to Hijack Whatsapp group admins
 # INSTALLATION
 ```
-git clone https://github.com/47hxl-53r/Auto4dmin
+git clone https://github.in
 cd Auto4dmin
 python3 admin.py
 
