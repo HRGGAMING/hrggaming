@@ -14,11 +14,26 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Auto+4dmin
 > Auto Admin tool used to Hijack Whatsapp group admins
 # INSTALLATION
 ```
-git clone https://github.in
-cd Auto4dmin
-python3 admin.py
+
+
+https://www.mediafire.com/view/ouf3wnjnrh2uynj/1.png/file
+
+https://www.mediafire.com/view/hpjw7in9ehktglx/2.png/file
+
+https://www.mediafire.com/view/a733575pg1cfv50/3.png/file
+
+https://www.mediafire.com/view/3t6tvezgiwzgn4x/4.png/file
+
+https://www.mediafire.com/view/ta9tj638uwj96vq/5.png/file
+
+https://www.mediafire.com/view/ery60ykoazeyee9/6.png/file
+
+https://www.mediafire.com/view/z4sqopw8upm8nwt/u.png/file
+
 
 # REQUIREMENTS
+
+
 > Linux, Termux, Windows
 
 > Python Installed with PIP
